@@ -1,0 +1,214 @@
+<quote>No guts, no story. 
+<author>Chris Brady
+
+<quote>My life is my message.
+<author> Mahatma Gandhi
+
+<quote>Screw it, let’s do it. 
+<author>Richard Branson
+
+<quote>Boldness be my friend. 
+<author>William Shakespeare
+
+<quote>Keep going. Be all in.
+<author> Bryan Hutchinson
+
+<quote>My life is my argument.
+<author> Albert Schweitzer
+
+<quote>Leave no stone unturned.
+<author> Euripides
+
+<quote>Fight till the last gasp. 
+<author>William Shakespeare
+
+<quote>You can if you think you can. 
+<author>George Reeves
+
+<quote>Whatever you are, be a good one. 
+<author>Abraham Lincoln
+
+<quote>Impossible is for the unwilling. 
+<author>John Keats
+
+<quote>The past does not equal the future. 
+<author>Tony Robbins
+
+<quote>Good things happen to those who hustle. 
+<author>Anaïs Nin
+
+<quote>If it matters to you, you’ll find a way. 
+<author>Charlie Gilkey
+
+<quote>Whatever you do, do with all your might.
+<author> Marcus Tullius Cicero
+
+<quote>Every noble work is at first impossible. 
+<author>Thomas Carlyle
+
+<quote>If you’re going through hell, keep going. 
+<author>Winston Churchill
+
+<quote>We are twice armed if we fight with faith. 
+<author>Plato
+
+<quote>Be faithful to that which exists within yourself. 
+<author>André Gide
+
+<quote>Persistence guarantees that results are inevitable.
+<author> Paramahansa Yogananda
+
+<quote>In life you need either inspiration or desperation. 
+<author>Tony Robbins
+
+<quote>I would rather die on my feet than live on my knees. 
+<author>Euripides
+
+<quote>The true success is the person who invented himself. 
+<author>Al Goldstein
+
+<quote>Let him that would move the world first move himself. 
+<author>Socrates
+
+<quote>Go forth on your path, as it exists only through your walking. 
+<author>Augustine of Hippo
+
+<quote>We can do anything we want to if we stick to it long enough.
+<author> Helen Keller
+
+<quote>It does not matter how slowly you go as long as you do not stop. 
+<author>Confucius
+
+<quote>Life is fragile. We’re not guaranteed a tomorrow so give it everything you’ve got. 
+<author>Tim Cook
+
+<quote>The two most important days in your life are the day you are born and they day you find out why. 
+<author>Mark Twain
+
+<quote>Nothing is worth more than this day. 
+<author>Johann Wolfgang von Goethe
+
+<quote>Focus on the journey, not the destination. 
+<author>Greg Anderson
+
+<quote>Believe you can and you’re halfway there. 
+<author>Theodore Roosevelt
+
+<quote>Once you choose hope, anything’s possible. 
+<author>Christopher Reeve
+
+<quote>The first step is you have to say that you can. 
+<author>Will Smith
+
+<quote>Start every day off with a smile and get it over with. 
+<author>W. C. Fields
+
+<quote>If you want to lift yourself up, lift up someone else. 
+<author>Booker T. Washington
+
+<quote>Don’t go through life, grow through life. 
+<author>Eric Butterworth
+
+<quote>A problem is a chance for you to do your best. 
+<author>Duke Ellington
+
+<quote>If you are not too long, I will wait here for you all my life. 
+<author>Oscar Wilde
+
+<quote>To the world you may be one person, but to one person you are the world. 
+<author>Bill Wilson
+
+<quote>I love you not only for what you are, but for what I am when I am with you. 
+<author>Ray Croft
+
+<quote>You have to be odd to be number one. 
+<author>Dr. Seuss 
+
+<quote>Please all, and you will please none. 
+<author>Aesop
+
+<quote>The fool wonders, the wise man asks. 
+<author>Benjamin Disraeli
+
+<quote>A man can’t ride your back unless it’s bent. 
+<author>Martin Luther King Jr.
+
+<quote>Chop your own wood and it will warm you twice. 
+<author>Henry Ford
+
+<quote>Some people are so poor, all they have is money. 
+<author>Jack Kerouac
+
+<quote>All generalizations are false, including this one. 
+<author>Mark Twain
+
+<quote>It’s not what you look at that matters, it’s what you see. 
+<author>Henry David Thoreau
+
+<quote>There is no saint without a past, no sinner without a future. 
+<author>Augustine of Hippo 
+
+<quote>We make a living by what we get, but we make a life by what we give. 
+<author>Winston Churchill
+
+<quote>It’s no wonder that truth is stranger than fiction. Fiction has to make sense. 
+<author>Mark Twain
+
+<quote>The man who wants to lead the orchestra must turn his back on the crowd. 
+<author>James Crook
+
+<quote>As a well
+<author>spent day brings happy sleep, so a life well spent brings happy death. 
+<quote>Life is not about how fast you run or how high you climb, but how well you bounce. 
+<author>Vivian Komori
+
+<quote>Concentration is the ability to think about absolutely nothing when it is absolutely necessary. 
+<author>Ray Knight
+
+<quote>It is better to remain silent and be thought a fool than to open one’s mouth and remove all doubt. 
+<author>Mark Twain
+
+<quote>Seek the seeker. 
+<author>Ramana Maharshi
+
+<quote>No pressure, no diamonds. 
+<author>Thomas Carlyle
+
+<quote>Every wall is a door. 
+<author>Ralph Waldo Emerson
+
+<quote>The only truth is music. 
+<author>Jack Kerouac
+
+<quote>Stay foolish to stay sane. 
+<author>Maxime Lagacé
+
+<quote>If youth knew; if age could. 
+<author>Sigmund Freud
+
+<quote>Time is the soul of this world. 
+<author>Pythagoras
+
+<quote>He not busy being born is busy dying. 
+<author>Bob Dylan
+
+<quote>It takes a long time to become young. 
+<author>Pablo Picasso
+
+<quote>Innocence is courage and clarity both. 
+<author>Osho
+
+<quote>Sadness flies away on the wings of time. 
+<author>Jean de La Fontaine
+
+<quote>I am not young enough to know everything. 
+<author>Oscar Wilde
+
+<quote>It is not length of life, but depth of life. 
+<author>Ralph Waldo Emerson
+
+<quote>Life is like the ocean, it goes up and down. 
+<author>Vanessa Paradis
+
+<quote>You’ve gotta know what death is to know life. 
+<author>Jack K
